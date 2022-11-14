@@ -1,0 +1,5 @@
+print ("hello world")
+print ('this is first line')
+print ('insert your card')
+print ('select language')
+print ('hii ajit')
